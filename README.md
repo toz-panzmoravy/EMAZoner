@@ -1,5 +1,3 @@
-# Trend Analyzer EMA Only
-
 ## Česká verze
 
 Tento TradingView indikátor slouží k vizuální analýze trendů na základě dvou klouzavých průměrů EMA.
