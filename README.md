@@ -1,3 +1,5 @@
+[TradingView: https://www.tradingview.com/script/FIh5gksn-EMAZoner-0-5/]
+
 # CHANGELOG #v0.5
 
 ## Vylepšení od vytvoření README (CZ)
